@@ -198,3 +198,7 @@ Uniform-Cost Search manages a priority queue ordered by cumulative path cost, \(
 ## References
 
 Russell, S., & Norvig, P. (2010). *Artificial intelligence: A modern approach* (3rd ed.). Prentice Hall.
+
+
+# MEETING SCREENSHOT 
+![Proof of discussion - Google meet screenshot](image.png)

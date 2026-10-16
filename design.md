@@ -188,7 +188,7 @@ Uniform-Cost Search manages a priority queue ordered by cumulative path cost, \(
 - Step 9: Pop [Kisumu (Goal Node A)] (Lowest cost: 348 km)
     - Goal Test Evaluation: Node matches target destination. Since UCS expands nodes in strict increasing order of optimal cost, this path is guaranteed to minimize distance. Search terminates successfully.
 
-### 3. Final Conclusion
+### 3. Answer
 
 - Optimal Path: Nairobi \(\rightarrow \) Naivasha \(\rightarrow \) Nakuru \(\rightarrow \) Kericho \(\rightarrow \) Kisumu
 - Minimum Total Path Cost: 348 km
